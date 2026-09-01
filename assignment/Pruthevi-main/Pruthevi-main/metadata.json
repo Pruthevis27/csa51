@@ -1,0 +1,6 @@
+{
+  "name": "EHR Security System",
+  "description": "Medical Document Integrity & Authentication using Cryptographic Hashing and RSA-PSS Digital Signatures",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
